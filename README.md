@@ -7,6 +7,24 @@ These are the KiCAD Project files for the AVR-Miner Board PCB.
 Please feel free to modify the design files as per your requirements. Improvements are always appreciated !!!
 
 ---
+### Preview:
+
+1) PCB View 1:
+
+![AVR-Miner](https://github.com/Duco-Miner/AVR-Miner/blob/18e8f97630ff8491f35998306b474113af62d5f5/IMAGES/AVR-MINER-PCB-1.png)
+
+2) PCB View 2:
+
+![AVR-Miner](https://github.com/Duco-Miner/AVR-Miner/blob/18e8f97630ff8491f35998306b474113af62d5f5/IMAGES/AVR-MINER-PCB-2.png)
+
+3) PCB Front View:
+
+![AVR-Miner](https://github.com/Duco-Miner/AVR-Miner/blob/18e8f97630ff8491f35998306b474113af62d5f5/IMAGES/AVR-MINER-PCB-3.png)
+
+4) PCB Back View:
+
+![AVR-Miner](https://github.com/Duco-Miner/AVR-Miner/blob/18e8f97630ff8491f35998306b474113af62d5f5/IMAGES/AVR-MINER-PCB-4.png)
+---
 
 ### PCB Specifications:
 
@@ -49,5 +67,5 @@ Please find the Code to be uploaded to AVR Miner here: [https://github.com/Duco-
 
 ### Additional Links:
 
-Check out the awesome Duino Coin Project at: [https://duinocoin.com](https://duinocoin.com)
-Duino Coin Wallet: [https://wallet.duinocoin.com](https://wallet.duinocoin.com)
+- Check out the awesome Duino Coin Project at: [https://duinocoin.com](https://duinocoin.com)
+- Duino Coin Wallet: [https://wallet.duinocoin.com](https://wallet.duinocoin.com)
