@@ -1,6 +1,6 @@
 # AVR-Miner
 
-The AVR-Miner Board forms the Slave Device controlled by the [ESP32-Miner](https://github.com/Duco-Miner/ESP32-Miner) in the DUCO-Miner Rack. The [Common Miner Baseboard](https://github.com/Duco-Miner/Common-Miner-Baseboard) uses multiple AVR-Miner Boards for Mining the Duno Coin.
+The AVR-Miner Board forms the Slave Device controlled by the [ESP32-Miner](https://github.com/Duco-Miner/ESP32-Miner) in the DUCO-Miner Rack. The [Common Miner Baseboard](https://github.com/Duco-Miner/Common-Miner-Baseboard) uses multiple AVR-Miner Boards for Mining the Duino Coin.
 
 These are the KiCAD Project files for the AVR-Miner Board PCB.
 
